@@ -29,8 +29,8 @@ A social recipe web app for actually discovering food, not just saving it. It pr
 - **Keep It Up!**  
 Sorts through the chaos of a job search inbox automatically, texting you the moment an email is an interview, offer, or rejection.  
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
 - **Splitify**  
 Allows one to split a group bill without the math headache. Just snap a receipt and OCR will handle the parsing, assigning, and future budget math for you.
