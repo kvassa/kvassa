@@ -2,7 +2,7 @@
 
 Building user-focused products with creativity. 
 
-I'm passionate about turning everyday friction into something simple. I love to reimagine and create products, especially apps, that quietly fix the small annoyances of a normal day. Right now I'm diving deeper into Machine Learning and Computer Vision, and looking for ways to bring that curiosity into tech and biotech through hands-on career experiences.
+I'm passionate about turning everyday friction into something simple. I love to reimagine and create products, especially apps, that fix the small annoyances of a normal day. Right now I'm diving deeper into Machine Learning and Computer Vision, and looking for ways to bring that curiosity into tech and biotech through hands-on career experiences.
 
 ---
 
